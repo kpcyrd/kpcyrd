@@ -61,4 +61,4 @@ All my open-source work is currently funded by myself and donations from [Github
 
 ### 📫 Contacting
 
-If you want to contact me you can do so on irc ([irc.hackint.org](https://hackint.org/connect), [irc.libera.chat](https://libera.chat/guides/connect), [irc.oftc.net](https://www.oftc.net/), OTR is available), via Twitter DM to [@kpcyrd](https://twitter.com/kpcyrd) or on [matrix](https://matrix.org/) at `@kpcyrd:archlinux.org`. Signal phone number is available on request. I read my emails infrequently.
+You can find me as kpcyrd on irc ([hackint](https://hackint.org/connect), [libera](https://libera.chat/guides/connect), [oftc](https://www.oftc.net/), [overthewire](https://overthewire.org/information/chat.html)), Twitter DM to [@kpcyrd](https://twitter.com/kpcyrd) or DM [kpcyrd](https://cloud-native.slack.com/messages/kpcyrd/) on [cncf slack](https://slack.cncf.io). I read my emails infrequently.
