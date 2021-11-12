@@ -61,4 +61,4 @@ All my open-source work is currently funded by myself and donations from [Github
 
 ### 📫 Contacting
 
-If you want to contact me you can do so on irc ([irc.hackint.org](https://hackint.org/connect), [irc.libera.chat](https://libera.chat/guides/connect), [irc.oftc.net](https://www.oftc.net/), OTR is available), via Twitter DM to [@kpcyrd](https://twitter.com/kpcyrd) or on [matrix](https://matrix.org/) at `@kpcyrd:matrix.org`. Signal phone number is available on request. I read my emails infrequently.
+If you want to contact me you can do so on irc ([irc.hackint.org](https://hackint.org/connect), [irc.libera.chat](https://libera.chat/guides/connect), [irc.oftc.net](https://www.oftc.net/), OTR is available), via Twitter DM to [@kpcyrd](https://twitter.com/kpcyrd) or on [matrix](https://matrix.org/) at `@kpcyrd:archlinux.org`. Signal phone number is available on request. I read my emails infrequently.
