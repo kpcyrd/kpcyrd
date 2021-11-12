@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kpcyrd&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
+### Hi! 👋
 
-### Ohai! 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kpcyrd&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
 
 I'm an open-source developer with a background in offensive security, web security, computer networks and supply-chain security.
 
