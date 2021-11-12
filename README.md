@@ -2,9 +2,9 @@
 
 ### Ohai! 👋
 
-I'm an open-source developer with a background in penetration testing, networking and supply-chain security.
+I'm an open-source developer with a background in offensive security, web security, computer networks and supply-chain security.
 
-### 🛠️ Penetration Testing Tools
+### 🛠️ Offensive Security Tools
 
 <details>
 
@@ -15,16 +15,14 @@ I'm an open-source developer with a background in penetration testing, networkin
 
 </details>
 
-### 🛡️ Defensive Security Tools
+### 🚢 Supply-chain Security Tools
 
 <details>
 
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd)
 - [arch-audit-gtk](https://github.com/kpcyrd/arch-audit-gtk)
 - [pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans)
-- [libredefender](https://github.com/kpcyrd/libredefender)
 - [ismyarchverifiedyet](https://github.com/kpcyrd/ismyarchverifiedyet)
-- [tr1pd](https://github.com/kpcyrd/tr1pd)
 
 </details>
 
