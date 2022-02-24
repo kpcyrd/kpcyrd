@@ -47,6 +47,16 @@ I'm an open-source developer with a background in offensive security, web securi
 
 </details>
 
+### 🚩 Capture The Flag
+
+<details>
+
+- [c3h2\_ctf](https://twitter.com/c3h2_ctf) member
+- [Hackover CTF](https://ctftime.org/ctf/122) crew
+- [defcon26-pow](https://github.com/kpcyrd/defcon26-pow)
+
+</details>
+
 ### 📦 Packaging
 
 I package software in the official repositories of multiple Linux distributions:
