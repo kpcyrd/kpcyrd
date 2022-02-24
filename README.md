@@ -15,7 +15,7 @@ I'm an open-source developer with a background in offensive security, web securi
 
 </details>
 
-### 🚢 Supply-chain Security Tools
+### 🚢 Supply-Chain Security Tools
 
 <details>
 
