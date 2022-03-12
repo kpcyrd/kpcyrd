@@ -9,6 +9,7 @@ I'm an open-source developer with a background in offensive security, web securi
 <details>
 
 - [sn0int](https://github.com/kpcyrd/sn0int)
+- [zzz3](https://github.com/sn0int/zzz3) (💲[$25/mo sponsorship reward](https://github.com/sponsors/kpcyrd)💲)
 - [authoscope](https://github.com/kpcyrd/authoscope)
 - [brchd](https://github.com/kpcyrd/brchd)
 - [progpick](https://github.com/kpcyrd/progpick)
