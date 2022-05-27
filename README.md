@@ -23,6 +23,7 @@ I'm an open-source developer with a background in offensive security, web securi
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd)
 - [arch-audit-gtk](https://github.com/kpcyrd/arch-audit-gtk)
 - [pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans)
+- [auth-tarball-from-git](https://github.com/kpcyrd/auth-tarball-from-git)
 - [archlinux-inputs-fsck](https://github.com/kpcyrd/archlinux-inputs-fsck)
 - [ismyarchverifiedyet](https://github.com/kpcyrd/ismyarchverifiedyet)
 
