@@ -70,7 +70,7 @@ I package software in the official repositories of multiple Linux distributions:
 
 ### 💲 Funding
 
-All my open-source work is currently funded by myself and donations from [Github Sponsors](https://github.com/sponsors/kpcyrd) (preferred) and [Patreon](https://www.patreon.com/kpcyrd).
+All my open-source work is currently funded by myself and donations from [Github Sponsors](https://github.com/sponsors/kpcyrd).
 
 ### 📫 Contacting
 
