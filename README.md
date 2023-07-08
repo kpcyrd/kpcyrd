@@ -21,6 +21,7 @@ I'm an open-source developer with a background in offensive security, web securi
 <details>
 
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd)
+- [repro-env](https://github.com/kpcyrd/repro-env)
 - [arch-audit-gtk](https://github.com/kpcyrd/arch-audit-gtk)
 - [pacman-bintrans](https://github.com/kpcyrd/pacman-bintrans)
 - [auth-tarball-from-git](https://github.com/kpcyrd/auth-tarball-from-git)
