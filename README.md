@@ -30,6 +30,18 @@ I'm an open-source developer with a background in offensive security, web securi
 
 </details>
 
+### 👾 Memory-safe Firmware
+
+<details>
+
+- [d3xs](https://github.com/kpcyrd/d3xs)
+- [game-dont-panic](https://github.com/kpcyrd/game-dont-panic)
+- [attiny85-hello-world](https://github.com/kpcyrd/attiny85-hello-world)
+- [rp2040-37c3-oled](https://github.com/kpcyrd/rp2040-37c3-oled)
+- [elf2nucleus](https://github.com/kpcyrd/elf2nucleus)
+
+</details>
+
 ### 🌏 Network Tools
 
 <details>
