@@ -60,6 +60,7 @@ I'm an open-source developer with a background in offensive security, web securi
 - [vulns.xyz](https://vulns.xyz/)
 - [i-probably-didnt-backdoor-this](https://github.com/kpcyrd/i-probably-didnt-backdoor-this)
 - [mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust)
+- [cloudflare-worker-rust](https://github.com/kpcyrd/cloudflare-worker-rust)
 
 </details>
 
